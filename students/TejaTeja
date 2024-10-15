@@ -1,0 +1,5 @@
+NAME = "TEJASWINI"
+YEAR = "FIRST YEAR"
+
+print("Git&Hub, " + YEAR)
+print(NAME + " was here.")
